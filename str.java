@@ -29,6 +29,7 @@ class str{
 	}
 		System.out.println("Upper char count is :" +cUP);
 		System.out.println("Lower char count is :" +clow);
+		 System.out.println("good evening.......!!!");
 	}
 
 }
